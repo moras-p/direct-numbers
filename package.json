@@ -1,0 +1,17 @@
+{
+  "name": "direct-numbers",
+  "version": "1.0.0",
+  "description": "Task 1",
+  "main": "getValue.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Paweł Moraś",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
